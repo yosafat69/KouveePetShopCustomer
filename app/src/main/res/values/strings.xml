@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KouveePetShopCustomer</string>
+    <string name="title_home">Home</string>
+    <string name="title_produk">Produk</string>
+    <string name="title_layanan">Layanan</string>
+    <string name="alamat">Jl. Moses Gatotkaca No. 22 Yogyakarta 55281</string>
+    <string name="nomor_text">Telp. (0274) 357735</string>
+    <integer name="nomor">0274357735</integer>
+    <string name="website">http://www.sayanghewan.com</string>
+</resources>
