@@ -25,9 +25,9 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
     }
 
-    public static String getIp(){ return "http://192.168.43.202"; }
+    public static String getIp(){ return "http://192.168.1.5"; }
 
     public static String getUrl() {
-        return "/rest_api-kouvee-pet-shop/";
+        return "/rest_api-kouvee-pet-shop-master/";
     }
 }
